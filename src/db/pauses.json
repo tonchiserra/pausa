@@ -358,5 +358,115 @@
     "id": 72,
     "mood": "agradecido",
     "content": "Hacé una pausa mirando alrededor y nombrá en voz baja 5 cosas por las que estás agradecido en este momento."
+  },
+  {
+    "id": 73,
+    "mood": "agotado",
+    "content": "Apoyá la espalda en el respaldo, cerrá los ojos y dejá que tu cuerpo se afloje por completo. No tenés que hacer nada ahora. Solo estar acá."
+  },
+  {
+    "id": 74,
+    "mood": "desmotivado",
+    "content": "Escribí en una hoja: ¿qué haría hoy si tuviera un 5% más de energía? No tiene que ser mucho, solo un poco más. Eso puede bastar para arrancar."
+  },
+  {
+    "id": 75,
+    "mood": "saturado",
+    "content": "Cerrá todas las pestañas del navegador menos una. Mantenete ahí por 10 minutos. Tu mente también necesita menos ruido."
+  },
+  {
+    "id": 76,
+    "mood": "animado",
+    "content": "Usá este momento para empezar algo nuevo. Abrí un documento en blanco, una app, o simplemente una idea. No importa si no es perfecta."
+  },
+  {
+    "id": 77,
+    "mood": "agotado",
+    "content": "Poné una canción instrumental suave y recostate por 3 minutos. Permitite no hacer nada más que respirar y dejar que la música te abrace."
+  },
+  {
+    "id": 78,
+    "mood": "triste",
+    "content": "Escribí el mensaje que te gustaría recibir hoy. Leelo como si te lo estuvieran diciendo. Vos también podés darte eso que necesitás."
+  },
+  {
+    "id": 79,
+    "mood": "ansioso",
+    "content": "Andá al baño o cocina y lavate las manos con agua fría. Sentí el contacto del agua como un ancla al presente. Observá cómo cambia tu ritmo interno."
+  },
+  {
+    "id": 80,
+    "mood": "saturado",
+    "content": "Hacé una lista de lo que vas a soltar hoy. No importa si son cosas chicas. Nombrarlas es el primer paso para aligerarte."
+  },
+  {
+    "id": 81,
+    "mood": "calmo",
+    "content": "Guardá este momento. Literalmente. Anotá lo que lo hizo especial y cómo llegaste hasta acá. Así vas a poder volver cuando lo necesites."
+  },
+  {
+    "id": 82,
+    "mood": "abrumado",
+    "content": "Reducí tu lista a solo 1 cosa. Una sola. Hacela sin pensar en el resto. A veces, avanzar es simplemente moverse un paso."
+  },
+  {
+    "id": 83,
+    "mood": "sin_energia",
+    "content": "Tomate un momento para mirar por la ventana. Observá el cielo, los árboles, la gente. A veces, el mundo afuera te recarga más que cualquier tarea."
+  },
+  {
+    "id": 84,
+    "mood": "enfocado",
+    "content": "Poné un temporizador de 15 minutos y dedicá ese tiempo a una sola tarea. Sin distracciones. Después, celebrá tu foco."
+  },
+  {
+    "id": 85,
+    "mood": "agradecido",
+    "content": "Recordá un momento difícil que superaste. Agradecé por haber aprendido de esa experiencia. Eso también es parte de tu historia."
+  },
+  {
+    "id": 86,
+    "mood": "desmotivado",
+    "content": "Pensá en una persona que te inspire. ¿Qué haría ella hoy? A veces, imaginar a otros nos ayuda a encontrar nuestro camino."
+  },
+  {
+    "id": 87,
+    "mood": "abrumado",
+    "content": "Hacé una pausa de 5 minutos. No mires el celular ni la computadora. Solo sentate y respirás. Eso es suficiente por ahora."
+  },
+  {
+    "id": 88,
+    "mood": "calmo",
+    "content": "Recordá un lugar donde te sentís en paz. Imaginá que estás ahí ahora mismo. Sentí cómo cambia tu cuerpo con esa visualización."
+  },
+  {
+    "id": 89,
+    "mood": "animado",
+    "content": "Escribí una lista de cosas que te hacen feliz. No importa si son grandes o pequeñas. Volvé a leerla cuando necesites un impulso."
+  },
+  {
+    "id": 90,
+    "mood": "agotado",
+    "content": "Tomate un momento para estirar el cuerpo. Mové los brazos, las piernas, el cuello. El movimiento es energía renovada."
+  },
+  {
+    "id": 91,
+    "mood": "ansioso",
+    "content": "Andá a un lugar tranquilo y respirá profundamente. Inhalá por nariz contando hasta 4, retené 2, exhalá por boca contando hasta 6. Repetí 3 veces."
+  },
+  {
+    "id": 92,
+    "mood": "sin_energia",
+    "content": "Recordá que está bien no estar al 100% todo el tiempo. Permitite descansar sin culpa. Eso también es autocuidado."
+  },
+  {
+    "id": 93,
+    "mood": "enfocado",
+    "content": "Elegí una tarea que te entusiasme y dedicá 10 minutos a ella. Sin distracciones. Después, anotá cómo te sentís."
+  },
+  {
+    "id": 94,
+    "mood": "agradecido",
+    "content": "Escribí una carta de agradecimiento a alguien que haya influido positivamente en tu vida. No tenés que enviarla, solo escribirla."
   }
 ]

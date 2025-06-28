@@ -70,6 +70,12 @@
     .random-pause__button {
         margin-left: auto;
         margin-right: 0;
+
+        &:hover {
+            svg {
+                transform: rotate(180deg);
+            }
+        }
     }
 
     .random-pause__like {

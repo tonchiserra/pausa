@@ -38,5 +38,9 @@
     {
         "id": "abrumado",
         "label": "Abrumado 😰"
+    },
+    {
+        "id": "calmo",
+        "label": "Calmo 😌"
     }
 ]

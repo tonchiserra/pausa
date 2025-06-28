@@ -22,6 +22,7 @@
 
 <script setup>
     import { ref } from 'vue'
+    import { reInitScrollAnimation } from '../main.js'
 
     const text = ref('')
     const disableButton = ref(true)
@@ -48,6 +49,8 @@
             
             text.value = ''
             disableButton.value = true
+
+            reInitScrollAnimation()
         }
     }
 </script>
