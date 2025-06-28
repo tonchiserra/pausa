@@ -1,14 +1,14 @@
 <template>
-    <div class="page-width journal-field">
-        <h3>💭 ¿En qué estás pensando?</h3>
+    <div class="page-width journal-field fade-in">
+        <h3>¿En qué estás pensando? 💭</h3>
 
-        <div class="journal-field__form">
+        <div class="journal-field__form fade-in">
             <textarea name="JournalField" id="JournalField" v-model="text" @input="handleInput" placeholder="Escribe algo..."></textarea>
             <button class="button--primary" @click="saveJournal" :disabled="disableButton">Guardar</button>
         </div>
         <span class="journal-field__disclaimer">No te preocupes, todos los datos se guardan de manera local, solo para vos. Escribe tranquilo.</span>
 
-        <div class="journal-field__previous" v-if="!!journal.length">
+        <div class="journal-field__previous fade-in" v-if="!!journal.length">
             <h4>Tus pensamientos previos:</h4>
             <div class="journal-field__previous-list">
                 <div v-for="item in journal" class="journal-field__previous-item">
@@ -54,8 +54,6 @@
 
 <style scoped>
     .journal-field {
-        padding-top: 60px;
-        padding-bottom: 60px;
         display: flex;
         flex-direction: column;
         gap: 4px;

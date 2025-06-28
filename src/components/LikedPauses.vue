@@ -1,9 +1,9 @@
 <template>
-    <div class="page-width liked-pauses">
-        <h3>🌿 Tu rincón personal</h3>
+    <div class="page-width liked-pauses fade-in">
+        <h3>Tu rincón personal 🌿</h3>
         
         <div class="liked-pauses__grid">
-            <div class="liked-pauses__item" v-for="pause in likedPauses" :key="pause.id" :style="`background-color: hsl(${Math.floor(Math.random() * 360)}, 70%, 80%, .3)`">
+            <div class="liked-pauses__item fade-in" v-for="pause in likedPauses" :key="pause.id" :style="`background-color: hsl(${Math.floor(Math.random() * 360)}, 70%, 80%, .3)`">
                 <p>{{ pause.content }}</p>
             </div>
         </div>
@@ -22,8 +22,6 @@
 
 <style scoped>
     .liked-pauses {
-        padding-top: 60px;
-        padding-bottom: 60px;
         display: flex;
         flex-direction: column;
         gap: 2rem;
@@ -41,18 +39,5 @@
         -webkit-column-break-inside: avoid;
         page-break-inside: avoid;
         break-inside: avoid;
-        animation: fadeIn 600ms ease both;
-    }
-
-    @keyframes fadeIn {
-        from {
-            opacity: 0;
-            transform: translateY(30px);
-        }
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
-        
     }
 </style>

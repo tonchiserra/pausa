@@ -1,8 +1,8 @@
 <template>
-    <div class="random-pause page-width">
-        <h3>🧘‍♀️ Tu pausa del día</h3>
+    <div class="random-pause page-width fade-in">
+        <h3>Tu pausa del día 🧘‍♀️</h3>
 
-        <div class="random-pause__card" ref="randomPauseCard" v-if="!!currentPause?.content">
+        <div class="random-pause__card fade-in--animated" ref="randomPauseCard" v-if="!!currentPause?.content">
             <button class="button--transparent random-pause__like" @click="handleLike">
                 <IconHeartFill v-if="globalState.likedPauses.includes(currentPause?.id)" />
                 <IconHeart v-else />
@@ -55,8 +55,6 @@
 
 <style scoped>
     .random-pause {
-        padding-top: 60px;
-        padding-bottom: 60px;
         display: flex;
         flex-direction: column;
         gap: 2rem;
@@ -67,7 +65,6 @@
         padding: 3rem;
         border-radius: var(--border-radius);
         position: relative;
-        animation: fadeIn 300ms ease both;
     }
 
     .random-pause__button {
@@ -79,16 +76,5 @@
         position: absolute;
         top: 1.2rem;
         right: 1.2rem;
-    }
-
-    @keyframes fadeIn {
-        from {
-            opacity: 0;
-            transform: translateY(20px);
-        }
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
     }
 </style>

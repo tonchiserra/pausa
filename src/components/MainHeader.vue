@@ -5,13 +5,13 @@
 
             <div class="menu-drawer">
                 <details ref="menuDrawer">
-                    <summary>
+                    <summary class="button--icon">
                         <IconMenu />
                     </summary>
                 </details>
                 <div class="menu-drawer__container shadow">
                     <div class="menu-drawer__header">
-                        <button @click="menuDrawer?.removeAttribute('open')" class="button--transparent">
+                        <button @click="menuDrawer?.removeAttribute('open')" class="button--transparent button--icon">
                             <IconClose />
                         </button>
                     </div>
