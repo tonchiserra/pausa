@@ -1,0 +1,42 @@
+[
+    {
+        "id": "triste",
+        "label": "Triste 😢"
+    },
+    {
+        "id": "animado",
+        "label": "Animado 😊"
+    },
+    {
+        "id": "saturado",
+        "label": "Saturado 😩"
+    },
+    {
+        "id": "agotado",
+        "label": "Agotado 😫"
+    },
+    {
+        "id": "ansioso",
+        "label": "Ansioso 😟"
+    },
+    {
+        "id": "sin_energia",
+        "label": "Sin energía 😴"
+    },
+    {
+        "id": "desmotivado",
+        "label": "Desmotivado 😞"
+    },
+    {
+        "id": "agradecido",
+        "label": "Agradecido 😊"
+    },
+    {
+        "id": "enfocado",
+        "label": "Enfocado 🎯"
+    },
+    {
+        "id": "abrumado",
+        "label": "Abrumado 😰"
+    }
+]

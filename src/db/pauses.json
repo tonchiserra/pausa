@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "mood": "triste",
+    "content": "Permitite estar triste. No tenés que fingir que todo está bien. A veces, aceptar lo que duele es el primer paso para sanar."
+  },
+  {
+    "id": 2,
+    "mood": "triste",
+    "content": "Respirá hondo y recordá: esta emoción no te define. Es solo una ola que eventualmente va a calmarse."
+  },
+  {
+    "id": 3,
+    "mood": "triste",
+    "content": "Poné una canción que te abrace, cerrá los ojos y dejate sentir. Después, hacé algo pequeño que te recuerde que estás vivo."
+  },
+  {
+    "id": 4,
+    "mood": "animado",
+    "content": "Canalizá esa energía en algo que te entusiasme. Incluso una tarea simple puede sentirse especial si la haces con alegría."
+  },
+  {
+    "id": 5,
+    "mood": "animado",
+    "content": "Disfrutá el momento. No pienses en lo que sigue. Estás bien ahora. Eso ya es mucho."
+  },
+  {
+    "id": 6,
+    "mood": "animado",
+    "content": "Compartí tu entusiasmo: mandale un mensaje sincero a alguien que querés. Contagiá buena energía."
+  },
+  {
+    "id": 7,
+    "mood": "saturado",
+    "content": "Tu mente necesita un respiro. Apoyá los pies en el suelo, cerrá los ojos y contá hasta diez lentamente."
+  },
+  {
+    "id": 8,
+    "mood": "saturado",
+    "content": "Cerrá una pestaña, soltá una obligación, hacé espacio. A veces, menos es más."
+  },
+  {
+    "id": 9,
+    "mood": "saturado",
+    "content": "Poné el celular boca abajo por 5 minutos. Respirá. Volvé a vos."
+  },
+  {
+    "id": 10,
+    "mood": "agotado",
+    "content": "No tenés que ser productivo ahora. Tu cuerpo habla, escuchalo. A veces, descansar es avanzar."
+  },
+  {
+    "id": 11,
+    "mood": "agotado",
+    "content": "¿Podés cerrar los ojos un minuto? Inhalá profundo. Exhalá largo. Soltá la tensión de la mandíbula y los hombros."
+  },
+  {
+    "id": 12,
+    "mood": "agotado",
+    "content": "Tomate un vaso de agua, alejate de la pantalla y estirá el cuello. Tu energía te lo va a agradecer."
+  },
+  {
+    "id": 13,
+    "mood": "ansioso",
+    "content": "Enfocate en lo que está bajo tu control: tu respiración. Inhalá en 4, retené en 4, exhalá en 4. Repetí tres veces."
+  },
+  {
+    "id": 14,
+    "mood": "ansioso",
+    "content": "Elegí un objeto y describilo en detalle. Eso ayuda a que tu mente se ancle en el presente."
+  },
+  {
+    "id": 15,
+    "mood": "ansioso",
+    "content": "Mové el cuerpo. Caminá, estirá, hacé algo con las manos. Tu ansiedad necesita salir por algún canal."
+  },
+  {
+    "id": 16,
+    "mood": "sin_energia",
+    "content": "Hoy, lo pequeño también vale. Una pausa, una ducha, un café tranquilo. Eso es cuidarte."
+  },
+  {
+    "id": 17,
+    "mood": "sin_energia",
+    "content": "No todo tiene que ser productivo. A veces, hacer nada también es necesario."
+  },
+  {
+    "id": 18,
+    "mood": "sin_energia",
+    "content": "Respirá hondo y repetí mentalmente: 'No necesito rendir todo el tiempo. Estoy haciendo lo que puedo'."
+  },
+  {
+    "id": 19,
+    "mood": "desmotivado",
+    "content": "Volvé a lo simple. ¿Qué te hacía bien cuando eras chico? A veces la motivación nace de lo más básico."
+  },
+  {
+    "id": 20,
+    "mood": "desmotivado",
+    "content": "Escribí una mini meta para hoy. Algo tan chico que no puedas fallar. Cumplila y celebrá igual."
+  },
+  {
+    "id": 21,
+    "mood": "desmotivado",
+    "content": "Revisá tus logros pasados. Aunque hoy no veas avance, ya recorriste más camino del que creés."
+  },
+  {
+    "id": 22,
+    "mood": "agradecido",
+    "content": "Cerrá los ojos y nombrá 3 cosas que agradecés hoy. Sentí cómo cambia tu respiración al hacerlo."
+  },
+  {
+    "id": 23,
+    "mood": "agradecido",
+    "content": "Agradecer no es negar lo malo, es recordar lo que también está bien."
+  },
+  {
+    "id": 24,
+    "mood": "agradecido",
+    "content": "Mandale un mensaje a alguien que quieras. A veces agradecer también es compartir."
+  },
+  {
+    "id": 25,
+    "mood": "enfocado",
+    "content": "Antes de seguir, acomodá tu postura y tomá un respiro. Estar bien físicamente mejora tu foco mental."
+  },
+  {
+    "id": 26,
+    "mood": "enfocado",
+    "content": "Bloqueá distracciones por 10 minutos. Hacé solo eso. Después podés volver al resto."
+  },
+  {
+    "id": 27,
+    "mood": "enfocado",
+    "content": "Estás en sintonía. No interrumpas el flujo, pero tampoco te exijas más de lo necesario."
+  },
+  {
+    "id": 28,
+    "mood": "abrumado",
+    "content": "Anotá todo lo que te está rondando por la cabeza. Sacarlo al papel ayuda a bajarle el volumen."
+  },
+  {
+    "id": 29,
+    "mood": "abrumado",
+    "content": "Hacé una sola cosa ahora. No pienses en todo. Elegí una y empezá con eso."
+  },
+  {
+    "id": 30,
+    "mood": "abrumado",
+    "content": "Cerrá los ojos, poné tu mano sobre el pecho y repetí: 'Estoy acá. Y eso es suficiente por ahora'."
+  },
+  {
+    "id": 31,
+    "mood": "triste",
+    "content": "Ejercicio de gratitud mínima: escribí 3 cosas que hoy estuvieron 'bien'. Pueden ser simples: una charla, una comida rica o simplemente haber llegado al final del día."
+  },
+  {
+    "id": 32,
+    "mood": "triste",
+    "content": "Cerrá los ojos un momento y recordá un abrazo que te haya hecho bien. Imaginá que te lo dan ahora. Sentí el calor de ese recuerdo."
+  },
+  {
+    "id": 33,
+    "mood": "triste",
+    "content": "Dale espacio a tu tristeza. Poné una canción que te acompañe, escuchala entera sin hacer nada más. Después, respirá profundo tres veces."
+  },
+  {
+    "id": 34,
+    "mood": "saturado",
+    "content": "Hacé una respiración 4-4-4: inhalá 4 segundos, retené 4, exhalá 4. Repetí 3 veces. Soltá los hombros mientras exhalás."
+  },
+  {
+    "id": 35,
+    "mood": "saturado",
+    "content": "Tomá un papel o bloc de notas. Escribí todo lo que tenés en la cabeza, sin filtro. Luego, tachá lo que no puedas resolver hoy. Dejalo ir."
+  },
+  {
+    "id": 36,
+    "mood": "saturado",
+    "content": "Estirá los brazos, girá el cuello suavemente, mové los hombros. Activá tu cuerpo durante 2 minutos. La mente también se reinicia en movimiento."
+  },
+  {
+    "id": 37,
+    "mood": "animado",
+    "content": "Usá tu energía para contagiar algo bueno: escribíle a alguien que querés y decile algo lindo, sin motivo. Después, sonreí para vos también."
+  },
+  {
+    "id": 38,
+    "mood": "animado",
+    "content": "Elegí una tarea mínima que venís postergando y hacela ahora mismo, sin pensarlo. Usá tu entusiasmo como impulso."
+  },
+  {
+    "id": 39,
+    "mood": "animado",
+    "content": "Andá hasta una ventana, mirá el cielo y repetí en voz baja: 'Gracias por este momento'. Sumá esa energía a tu día."
+  },
+  {
+    "id": 40,
+    "mood": "calmo",
+    "content": "Escribí (o pensá) por qué te sentís en paz en este momento. ¿Qué hiciste distinto hoy? ¿Qué podés repetir mañana?"
+  },
+  {
+    "id": 41,
+    "mood": "calmo",
+    "content": "Hacé una pausa consciente: tomá un sorbo de agua, café o té prestando atención solo al sabor, a la temperatura y al momento."
+  },
+  {
+    "id": 42,
+    "mood": "calmo",
+    "content": "Apoyá una mano sobre tu pecho y otra sobre tu panza. Sentí cómo respirás. Quedate ahí 30 segundos. Estás bien."
+  },
+  {
+    "id": 43,
+    "mood": "triste",
+    "content": "Escribí una carta que no vas a enviar. Contale a tu tristeza cómo te sentís, sin juzgarte. Después, guardala o rompela. Vos decidís."
+  },
+  {
+    "id": 44,
+    "mood": "triste",
+    "content": "Elegí una canción que siempre te contuvo. Escuchala en un lugar tranquilo. Permitite llorar o respirar con ella."
+  },
+  {
+    "id": 45,
+    "mood": "triste",
+    "content": "Prepará una infusión caliente. Tomala lentamente prestando atención al aroma, al calor en tus manos y al presente."
+  },
+  {
+    "id": 46,
+    "mood": "saturado",
+    "content": "Cerrá los ojos. Inhalá profundo y exhalá lentamente mientras contás del 10 al 1. Cada número, una exhalación. Al llegar a 1, abrí los ojos."
+  },
+  {
+    "id": 47,
+    "mood": "saturado",
+    "content": "Poné una alarma de 5 minutos. Durante ese tiempo, no hagas nada. Sentate. Respirá. Mirá por la ventana o al techo. Solo eso."
+  },
+  {
+    "id": 48,
+    "mood": "saturado",
+    "content": "Tocá con las manos un objeto cercano y describilo mentalmente: forma, textura, color. Esto te ancla al presente."
+  },
+  {
+    "id": 49,
+    "mood": "ansioso",
+    "content": "Poné una mano en el pecho y otra en la panza. Inhalá por nariz contando hasta 4, exhalá por boca contando hasta 6. Repetilo 5 veces."
+  },
+  {
+    "id": 50,
+    "mood": "ansioso",
+    "content": "Escribí todo lo que te preocupa sin editarlo. Cuando termines, marcá con un color lo que depende de vos hoy. Enfocate en eso."
+  },
+  {
+    "id": 51,
+    "mood": "ansioso",
+    "content": "Mové el cuerpo: estirá brazos, hombros y cuello. Caminá un minuto si podés. La ansiedad necesita canales físicos para salir."
+  },
+  {
+    "id": 52,
+    "mood": "animado",
+    "content": "Grabá una nota de voz hablándole a tu 'yo del futuro' contándole cómo te sentís hoy. Escuchala en otro momento."
+  },
+  {
+    "id": 53,
+    "mood": "animado",
+    "content": "Escribí 3 ideas o proyectos que te entusiasmen, sin pensar si son posibles. Dejá que la energía fluya sin juicio."
+  },
+  {
+    "id": 54,
+    "mood": "animado",
+    "content": "Sacá una foto de algo lindo de tu día. Guardala en una carpeta que diga 'momentos que valen la pena'."
+  },
+  {
+    "id": 55,
+    "mood": "agotado",
+    "content": "Cerrá los ojos, apoyá la cabeza donde estés y dejá que el cuerpo pese. Soltá la mandíbula, relajá los hombros. Quedate así un minuto."
+  },
+  {
+    "id": 56,
+    "mood": "agotado",
+    "content": "Tomate 2 minutos para hacer una pausa sin pantallas. Apoyá los pies firmes en el suelo. Respiración lenta. Eso ya es autocuidado."
+  },
+  {
+    "id": 57,
+    "mood": "agotado",
+    "content": "Preparáte algo simple y nutritivo. No importa si es grande o gourmet. Cuidarte empieza por lo básico."
+  },
+  {
+    "id": 58,
+    "mood": "desmotivado",
+    "content": "Recordá una vez que superaste algo difícil. ¿Qué herramientas usaste entonces? ¿Qué podés volver a usar hoy?"
+  },
+  {
+    "id": 59,
+    "mood": "desmotivado",
+    "content": "Elegí una tarea tan simple que no puedas fallar (hacer la cama, tender la ropa, tomar agua). Hacela. Celebralo igual."
+  },
+  {
+    "id": 60,
+    "mood": "desmotivado",
+    "content": "Leé una cita, frase o párrafo que te haya inspirado en el pasado. Volvé a ese lugar. Volvé a vos."
+  },
+  {
+    "id": 61,
+    "mood": "calmo",
+    "content": "Disfrutá un minuto de silencio. Si no hay silencio, buscá un sonido tranquilo (pájaros, lluvia, aire). Escuchalo atentamente."
+  },
+  {
+    "id": 62,
+    "mood": "calmo",
+    "content": "Preguntate: ¿qué hice hoy que me hizo bien? ¿Qué podría repetir mañana? Identificarlo es parte del bienestar."
+  },
+  {
+    "id": 63,
+    "mood": "calmo",
+    "content": "Andá a un rincón de tu casa, sentate cómodo y respirá con los ojos cerrados 5 veces. Agradecé este momento de pausa real."
+  },
+  {
+    "id": 64,
+    "mood": "abrumado",
+    "content": "Escribí todo lo que tenés que hacer hoy. Después, tachá o postergá lo que no sea esencial. Redefinir prioridades también es productividad."
+  },
+  {
+    "id": 65,
+    "mood": "abrumado",
+    "content": "Mirá algo simple y vivo: una planta, el cielo, una vela encendida. Mantené la atención ahí un rato. Eso es meditación básica."
+  },
+  {
+    "id": 66,
+    "mood": "abrumado",
+    "content": "Ponete un timer de 25 minutos. Hacé solo una cosa en ese tiempo. Después, volvé a esta app para una nueva pausa."
+  },
+  {
+    "id": 67,
+    "mood": "sin_energia",
+    "content": "Escuchá una canción lenta, de esas que te aflojan el pecho. Dejá que el cuerpo se relaje con cada nota."
+  },
+  {
+    "id": 68,
+    "mood": "sin_energia",
+    "content": "Repetí en voz baja: 'Estoy haciendo lo que puedo con lo que tengo'. Volvé a respirar profundo. Eso también es avanzar."
+  },
+  {
+    "id": 69,
+    "mood": "sin_energia",
+    "content": "Apoyá las palmas sobre la mesa o tus piernas. Sentí el peso. Sentí el contacto. Estás acá. Eso ya es mucho."
+  },
+  {
+    "id": 70,
+    "mood": "agradecido",
+    "content": "Mandale un mensaje sincero a alguien a quien agradecés. Puede ser simple: 'Gracias por estar'."
+  },
+  {
+    "id": 71,
+    "mood": "agradecido",
+    "content": "Escribí 3 momentos lindos de esta semana. Leelos en voz alta. Eso refuerza la memoria emocional positiva."
+  },
+  {
+    "id": 72,
+    "mood": "agradecido",
+    "content": "Hacé una pausa mirando alrededor y nombrá en voz baja 5 cosas por las que estás agradecido en este momento."
+  }
+]
