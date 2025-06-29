@@ -4,9 +4,9 @@
 	<main>
 		<RandomPause />
 		<JournalField />
-		<UserRewards />
 		<LikedPauses v-if="!!globalState.likedPauses.length" />
 		<ResourcesList />
+		<UserRewards />
 	</main>
 
 	<footer>

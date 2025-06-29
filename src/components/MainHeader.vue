@@ -11,9 +11,14 @@
                 </details>
                 <div class="menu-drawer__container shadow">
                     <div class="menu-drawer__header">
+                        <h2 class="h1">PAUSA DEL DÍA</h2>
                         <button @click="menuDrawer?.removeAttribute('open')" class="button--transparent button--icon">
                             <IconClose />
                         </button>
+                    </div>
+
+                    <div class="menu-drawer__content">
+                        <FeedbackField />
                     </div>
                 </div>
             </div>
@@ -27,6 +32,7 @@
     import IconMenu from "../assets/IconMenu.vue"
     import IconClose from "../assets/IconClose.vue"
     import MoodSelector from "./MoodSelector.vue"
+    import FeedbackField from "./FeedbackField.vue"
     import { ref } from "vue"
 
     const menuDrawer = ref<HTMLDetailsElement | null>(null)
@@ -55,18 +61,28 @@
         right: 0;
         z-index: 10;
         width: 100dvw;
-        max-width: 400px;
+        max-width: 600px;
         height: 100dvh;
         animation: slideInX 300ms ease both;
-        background-color: #fff;
+        background-color: var(--bg-color);
     }
 
     .menu-drawer__header {
         height: 70px;
         display: flex;
         align-items: center;
-        justify-content: flex-end;
+        justify-content: space-between;
+        gap: 20px;
         padding: 0 30px;
+    }
+
+    .menu-drawer__content {
+        padding: 30px;
+        height: calc(100dvh - 70px);
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
     }
 
     @keyframes slideInX {
