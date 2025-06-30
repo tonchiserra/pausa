@@ -20,7 +20,7 @@
     </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
     import { ref } from 'vue'
     import { reInitScrollAnimation } from '../main.js'
 

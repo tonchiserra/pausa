@@ -20,9 +20,9 @@
 	import RandomPause from './components/RandomPause.vue'
 	import MainHeader from './components/MainHeader.vue'
 	import LikedPauses from './components/LikedPauses.vue'
-	import JournalField from './components/JournalField.vue'
 	import ResourcesList from './components/ResourcesList.vue'
 	import UserRewards from './components/UserRewards.vue'
+	import JournalField from './components/JournalField.vue'
   	import { globalState, initScrollAnimation } from './main.js'
 	
 	import { onMounted } from 'vue'
