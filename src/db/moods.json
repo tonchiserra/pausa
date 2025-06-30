@@ -1,46 +1,57 @@
 [
     {
         "id": "triste",
-        "label": "Triste 😢"
+        "label": "Triste 😢",
+        "icon": "😢"
     },
     {
         "id": "animado",
-        "label": "Animado 😊"
+        "label": "Animado 😊",
+        "icon": "😊"
     },
     {
         "id": "saturado",
-        "label": "Saturado 😩"
+        "label": "Saturado 😩",
+        "icon": "😩"
     },
     {
         "id": "agotado",
-        "label": "Agotado 😫"
+        "label": "Agotado 😫",
+        "icon": "😫"
     },
     {
         "id": "ansioso",
-        "label": "Ansioso 😟"
+        "label": "Ansioso 😟",
+        "icon": "😟"
     },
     {
         "id": "sin_energia",
-        "label": "Sin energía 😴"
+        "label": "Sin energía 😴",
+        "icon": "😴"
     },
     {
         "id": "desmotivado",
-        "label": "Desmotivado 😞"
+        "label": "Desmotivado 😞",
+        "icon": "😞"
     },
     {
         "id": "agradecido",
-        "label": "Agradecido 😊"
+        "label": "Agradecido 😊",
+        "icon": "😊"
     },
     {
         "id": "enfocado",
-        "label": "Enfocado 🎯"
+        "label": "Enfocado 🎯",
+        "icon": "🎯"
     },
     {
         "id": "abrumado",
-        "label": "Abrumado 😰"
+        "label": "Abrumado 😰",
+        "icon": "😰"
     },
     {
         "id": "calmo",
-        "label": "Calmo 😌"
+        "label": "Calmo 😌",
+        "icon": "😌"
     }
 ]

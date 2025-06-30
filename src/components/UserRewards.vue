@@ -31,9 +31,9 @@
 
         if(!!globalState.userStats.lastTimeConnected) {
             let lastTime = new Date(globalState.userStats.lastTimeConnected)
-            let isNextDay = now.slice(0, 10) !== lastTime.toISOString().slice(0, 10)
+            let isNewDay = now.slice(0, 10) !== lastTime.toISOString().slice(0, 10)
 
-            if(isNextDay) {
+            if(isNewDay) {
                 // quantity of days doing pauses
                 globalState.userStats.daysPaused++
 

@@ -30,6 +30,7 @@
     
     onMounted(() => {
         changePause()
+        window.addEventListener("MoodChanged", () => changePause())
     })
 
     const changePause = () => {
