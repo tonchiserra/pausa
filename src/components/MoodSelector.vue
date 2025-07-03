@@ -28,6 +28,11 @@
         let storedMood = localStorage.getItem('pausa-del-dia::mood') ?? ''
         selectMood(moods.find(mood => mood.id === storedMood) ?? moods[0])
 
+        if(!!!globalState.userStats.lastTimeConnected) {
+            moodSelector.value?.setAttribute('open', 'true')
+            return
+        }
+
         let now = new Date().toISOString()
         let lastTime = new Date(globalState.userStats.lastTimeConnected)
         let isNewDay = now.slice(0, 10) !== lastTime.toISOString().slice(0, 10)

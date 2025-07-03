@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="header page-width">
-            <h1>PAUSA DEL DÍA</h1>
+            <h1>UNA PAUSA</h1>
 
             <div class="menu-drawer">
                 <details ref="menuDrawer">
@@ -11,7 +11,7 @@
                 </details>
                 <div class="menu-drawer__container shadow">
                     <div class="menu-drawer__header">
-                        <h2 class="h1">PAUSA DEL DÍA</h2>
+                        <h2 class="h1">UNA PAUSA</h2>
                         <button @click="menuDrawer?.removeAttribute('open')" class="button--transparent button--icon">
                             <IconClose />
                         </button>
