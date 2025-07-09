@@ -468,5 +468,385 @@
     "id": 94,
     "mood": "agradecido",
     "content": "Escribí una carta de agradecimiento a alguien que haya influido positivamente en tu vida. No tenés que enviarla, solo escribirla."
+  },
+  {
+    "id": 95,
+    "mood": "desmotivado",
+    "content": "Recordá un logro, por pequeño que sea. Celebralo mentalmente. A veces, los pequeños pasos son los más importantes."
+  },
+  {
+    "id": 96,
+    "mood": "abrumado",
+    "content": "Hacé una pausa de 3 minutos. No mires el celular ni la computadora. Solo sentate y respirás. Eso es suficiente por ahora."
+  },
+  {
+    "id": 97,
+    "mood": "calmo",
+    "content": "Andá a un lugar tranquilo y respirá profundamente. Inhalá por nariz contando hasta 4, retené 2, exhalá por boca contando hasta 6. Repetí 3 veces."
+  },
+  {
+    "id": 98,
+    "mood": "animado",
+    "content": "Escribí una lista de cosas que te hacen feliz. No importa si son grandes o pequeñas. Volvé a leerla cuando necesites un impulso."
+  },
+  {
+    "id": 99,
+    "mood": "agotado",
+    "content": "Tomate un momento para estirar el cuerpo. Mové los brazos, las piernas, el cuello. El movimiento es energía renovada."
+  },
+  {
+    "id": 100,
+    "mood": "triste",
+    "content": "Escribí en un papel cómo te sentís ahora. Después, escribí una cosa que te gustaría hacer para sentirte un poco mejor."
+  },
+  {
+    "id": 101,
+    "mood": "animado",
+    "content": "Hacé una lista de 5 cosas que te entusiasman en este momento. Elegí una y dedicá 10 minutos a pensar cómo podrías empezar."
+  },
+  {
+    "id": 102,
+    "mood": "saturado",
+    "content": "Cerrá los ojos y visualizá un lugar tranquilo. Imaginá que estás ahí por unos minutos. Sentí cómo tu cuerpo se relaja."
+  },
+  {
+    "id": 103,
+    "mood": "agotado",
+    "content": "Prepará una bebida caliente y tomala lentamente. Prestá atención al sabor y al calor en tus manos. Permitite este momento de calma."
+  },
+  {
+    "id": 104,
+    "mood": "ansioso",
+    "content": "Hacé una caminata corta, aunque sea dentro de tu casa. Concentrate en cada paso y en cómo se siente tu cuerpo al moverse."
+  },
+  {
+    "id": 105,
+    "mood": "sin_energia",
+    "content": "Elegí una actividad que te relaje, como leer o escuchar música tranquila. Dedicale 15 minutos sin interrupciones."
+  },
+  {
+    "id": 106,
+    "mood": "desmotivado",
+    "content": "Pensá en algo que te gustaría lograr esta semana. Dividilo en pasos pequeños y empezá por el más simple."
+  },
+  {
+    "id": 107,
+    "mood": "agradecido",
+    "content": "Escribí una lista de 10 cosas por las que estás agradecido hoy. Leela en voz alta y sentí cómo cambia tu perspectiva."
+  },
+  {
+    "id": 108,
+    "mood": "enfocado",
+    "content": "Elegí una tarea importante y dividila en partes pequeñas. Trabajá en la primera parte durante 20 minutos sin distracciones."
+  },
+  {
+    "id": 109,
+    "mood": "abrumado",
+    "content": "Hacé una pausa para organizar tu espacio. Ordená tu escritorio o un rincón de tu casa. Un entorno limpio ayuda a calmar la mente."
+  },
+  {
+    "id": 110,
+    "mood": "calmo",
+    "content": "Sentate en un lugar cómodo y escuchá una canción instrumental. Cerrá los ojos y dejá que la música te envuelva."
+  },
+  {
+    "id": 111,
+    "mood": "triste",
+    "content": "Escribí en un diario cómo te sentís hoy. No te preocupes por la gramática o la estructura, solo dejá que las palabras fluyan."
+  },
+  {
+    "id": 112,
+    "mood": "animado",
+    "content": "Hacé una lista de cosas que querés lograr este mes. Elegí una y empezá a planificar los primeros pasos."
+  },
+  {
+    "id": 113,
+    "mood": "saturado",
+    "content": "Tomá un descanso de 10 minutos lejos de las pantallas. Mirá por la ventana o simplemente cerrá los ojos y respirá."
+  },
+  {
+    "id": 114,
+    "mood": "agotado",
+    "content": "Prepará un espacio cómodo para descansar. Apagá las luces fuertes y poné música suave para relajarte."
+  },
+  {
+    "id": 115,
+    "mood": "ansioso",
+    "content": "Hacé un ejercicio de respiración: inhalá contando hasta 3, retené 3, exhalá 3. Repetí hasta sentirte más tranquilo."
+  },
+  {
+    "id": 116,
+    "mood": "sin_energia",
+    "content": "Elegí una actividad simple como regar una planta o lavar un plato. Hacela con atención plena."
+  },
+  {
+    "id": 117,
+    "mood": "desmotivado",
+    "content": "Pensá en una meta que te gustaría alcanzar. Escribí por qué es importante para vos y cómo te sentirías al lograrla."
+  },
+  {
+    "id": 118,
+    "mood": "agradecido",
+    "content": "Mandá un mensaje de agradecimiento a alguien que haya hecho algo bueno por vos recientemente."
+  },
+  {
+    "id": 119,
+    "mood": "enfocado",
+    "content": "Elegí una tarea que te cuesta empezar. Dividila en pasos pequeños y completá el primero ahora mismo."
+  },
+  {
+    "id": 120,
+    "mood": "abrumado",
+    "content": "Hacé una lista de tus pendientes y priorizá solo tres. Concentrate en completar la primera antes de seguir."
+  },
+  {
+    "id": 121,
+    "mood": "calmo",
+    "content": "Sentate en un lugar tranquilo y observá tu respiración. Contá cada inhalación y exhalación hasta llegar a 10."
+  },
+  {
+    "id": 122,
+    "mood": "triste",
+    "content": "Escribí una lista de cosas que te hacen sentir mejor cuando estás triste. Elegí una y hacela hoy."
+  },
+  {
+    "id": 123,
+    "mood": "animado",
+    "content": "Organizá una actividad divertida para el fin de semana. Usá tu energía para planear algo que te entusiasme."
+  },
+  {
+    "id": 124,
+    "mood": "saturado",
+    "content": "Tomá un descanso y hacé una caminata corta. Concentrate en los sonidos y colores a tu alrededor."
+  },
+  {
+    "id": 125,
+    "mood": "agotado",
+    "content": "Prepará una comida reconfortante. Elegí algo que te guste y disfrutalo sin apuro."
+  },
+  {
+    "id": 126,
+    "mood": "ansioso",
+    "content": "Hacé un ejercicio de visualización: imaginá un lugar tranquilo y seguro. Quedate ahí mentalmente por unos minutos."
+  },
+  {
+    "id": 127,
+    "mood": "sin_energia",
+    "content": "Elegí una tarea pequeña y fácil, como doblar ropa o preparar un vaso de agua. Hacela con calma y sin presión."
+  },
+  {
+    "id": 128,
+    "mood": "desmotivado",
+    "content": "Escribí una lista de cosas que te gustaría lograr este año. Elegí una meta pequeña y empezá a trabajar en ella."
+  },
+  {
+    "id": 129,
+    "mood": "agradecido",
+    "content": "Hacé una pausa y escribí una carta de agradecimiento a vos mismo por todo lo que has logrado hasta ahora."
+  },
+  {
+    "id": 130,
+    "mood": "enfocado",
+    "content": "Poné música instrumental y dedicá 30 minutos a una tarea importante. Usá el ritmo de la música para mantener el foco."
+  },
+  {
+    "id": 131,
+    "mood": "abrumado",
+    "content": "Elegí un rincón de tu casa y ordenalo. Un espacio limpio puede ayudarte a sentirte más tranquilo."
+  },
+  {
+    "id": 132,
+    "mood": "calmo",
+    "content": "Tomá un libro y leé un capítulo en silencio. Concentrate en las palabras y dejá que tu mente se relaje."
+  },
+  {
+    "id": 133,
+    "mood": "triste",
+    "content": "Escribí una lista de recuerdos felices. Elegí uno y revivilo en tu mente, prestando atención a los detalles."
+  },
+  {
+    "id": 134,
+    "mood": "animado",
+    "content": "Hacé una actividad física que te guste: bailar, correr, saltar. Usá tu energía para disfrutar el movimiento."
+  },
+  {
+    "id": 135,
+    "mood": "saturado",
+    "content": "Elegí una tarea que puedas delegar o postergar. Liberá espacio mental para enfocarte en lo esencial."
+  },
+  {
+    "id": 136,
+    "mood": "agotado",
+    "content": "Poné una alarma para descansar 15 minutos. Cerrá los ojos y dejá que tu cuerpo se recupere."
+  },
+  {
+    "id": 137,
+    "mood": "ansioso",
+    "content": "Hacé una lista de cosas que te preocupan. Luego, marcá las que están fuera de tu control y soltá esas preocupaciones."
+  },
+  {
+    "id": 138,
+    "mood": "sin_energia",
+    "content": "Prepará una bebida refrescante y tomala lentamente. Prestá atención al sabor y al momento presente."
+  },
+  {
+    "id": 139,
+    "mood": "desmotivado",
+    "content": "Pensá en alguien que te apoye. Mandale un mensaje contándole cómo te sentís y pidiendo un consejo o palabras de ánimo."
+  },
+  {
+    "id": 140,
+    "mood": "agradecido",
+    "content": "Escribí una lista de cosas que te hicieron sonreír hoy. Celebrá esos pequeños momentos de felicidad."
+  },
+  {
+    "id": 141,
+    "mood": "enfocado",
+    "content": "Cerrá todas las distracciones y trabajá en una tarea durante 25 minutos. Usá un temporizador para mantener el ritmo."
+  },
+  {
+    "id": 142,
+    "mood": "abrumado",
+    "content": "Hacé una pausa para estirar el cuerpo. Mové los brazos, el cuello y los hombros para liberar tensión."
+  },
+  {
+    "id": 143,
+    "mood": "calmo",
+    "content": "Sentate en un lugar cómodo y mirá un objeto cercano. Observá sus detalles y dejá que tu mente se relaje."
+  },
+  {
+    "id": 144,
+    "mood": "triste",
+    "content": "Escribí una lista de cosas que te gustaría hacer cuando te sientas mejor. Guardala como un recordatorio de esperanza."
+  },
+  {
+    "id": 145,
+    "mood": "animado",
+    "content": "Organizá un espacio de tu casa que te inspire. Usá tu energía para crear un lugar que te haga sentir bien."
+  },
+  {
+    "id": 146,
+    "mood": "saturado",
+    "content": "Elegí una tarea que puedas simplificar. Reducí los pasos y hacela de manera más liviana."
+  },
+  {
+    "id": 147,
+    "mood": "agotado",
+    "content": "Poné una alarma para tomar un descanso cada hora. Usá ese tiempo para respirar y recargar energías."
+  },
+  {
+    "id": 148,
+    "mood": "ansioso",
+    "content": "Hacé un ejercicio de escritura libre. Escribí todo lo que pasa por tu mente sin preocuparte por la estructura."
+  },
+  {
+    "id": 149,
+    "mood": "sin_energia",
+    "content": "Elegí una actividad que te reconforte, como mirar una película o escuchar música tranquila. Dedicale tiempo sin interrupciones."
+  },
+  {
+    "id": 150,
+    "mood": "desmotivado",
+    "content": "Escribí una lista de cosas que te inspiran. Elegí una y buscá más información sobre ella para motivarte."
+  },
+  {
+    "id": 151,
+    "mood": "agradecido",
+    "content": "Hacé una pausa y escribí una lista de personas que han influido positivamente en tu vida. Pensá en cómo podés agradecerles."
+  },
+  {
+    "id": 152,
+    "mood": "enfocado",
+    "content": "Dividí una tarea grande en partes más pequeñas y trabajá en una de ellas durante 15 minutos. Celebrá el progreso."
+  },
+  {
+    "id": 153,
+    "mood": "abrumado",
+    "content": "Tomá un momento para desconectarte de las redes sociales. Usá ese tiempo para respirar y reorganizar tus pensamientos."
+  },
+  {
+    "id": 154,
+    "mood": "calmo",
+    "content": "Elegí un lugar tranquilo y hacé una meditación guiada de 5 minutos. Concentrate en tu respiración y en el momento presente."
+  },
+  {
+    "id": 155,
+    "mood": "estresado",
+    "content": "Tomá una pausa de 5 minutos y hacé respiraciones profundas: inhalá contando hasta 4, retené 4, exhalá contando hasta 6. Repetí varias veces."
+  },
+  {
+    "id": 156,
+    "mood": "estresado",
+    "content": "Escribí una lista de las cosas que te están estresando. Luego, priorizá las que podés resolver hoy y soltá las demás."
+  },
+  {
+    "id": 157,
+    "mood": "estresado",
+    "content": "Hacé una caminata corta, aunque sea dentro de tu casa. Concentrate en cada paso y en cómo se siente tu cuerpo al moverse."
+  },
+  {
+    "id": 158,
+    "mood": "estresado",
+    "content": "Poné música relajante y dedicá 10 minutos a respirar profundamente. Dejá que el ritmo de la música te ayude a calmarte."
+  },
+  {
+    "id": 159,
+    "mood": "estresado",
+    "content": "Tomá un vaso de agua lentamente, prestando atención a cada sorbo. Usá este momento para reconectar con tu cuerpo."
+  },
+  {
+    "id": 160,
+    "mood": "estresado",
+    "content": "Elegí una tarea pequeña y fácil de completar. Hacer algo simple puede ayudarte a recuperar el control."
+  },
+  {
+    "id": 161,
+    "mood": "estresado",
+    "content": "Cerrá los ojos y visualizá un lugar tranquilo, como una playa o un bosque. Imaginá los sonidos y sensaciones de estar ahí."
+  },
+  {
+    "id": 162,
+    "mood": "estresado",
+    "content": "Hacé una pausa para estirar el cuerpo. Mové los brazos, el cuello y los hombros para liberar tensión acumulada."
+  },
+  {
+    "id": 163,
+    "mood": "estresado",
+    "content": "Escribí en un papel tres cosas que te preocupan y tres cosas que te hacen sentir agradecido. Enfocate en el balance."
+  },
+  {
+    "id": 164,
+    "mood": "estresado",
+    "content": "Tomá un descanso de 10 minutos lejos de las pantallas. Mirá por la ventana o simplemente cerrá los ojos y respirá."
+  },
+  {
+    "id": 165,
+    "mood": "estresado",
+    "content": "Prepará una bebida caliente y tomala lentamente, prestando atención al sabor y al calor en tus manos."
+  },
+  {
+    "id": 166,
+    "mood": "estresado",
+    "content": "Hacé una lista de tus pendientes y priorizá solo tres. Concentrate en completar la primera antes de seguir."
+  },
+  {
+    "id": 167,
+    "mood": "estresado",
+    "content": "Tomá un momento para organizar tu espacio. Ordená tu escritorio o un rincón de tu casa. Un entorno limpio ayuda a calmar la mente."
+  },
+  {
+    "id": 168,
+    "mood": "estresado",
+    "content": "Hacé una pausa de 5 minutos para practicar respiración consciente. Inhalá profundamente, retené el aire por 4 segundos y exhalá lentamente."
+  },
+  {
+    "id": 169,
+    "mood": "estresado",
+    "content": "Escribí en un papel todo lo que te preocupa. Luego, tachá las cosas que no podés controlar y enfocáte en lo que sí."
+  },
+  {
+    "id": 170,
+    "mood": "estresado",
+    "content": "Elegí una actividad relajante como leer un libro o escuchar música tranquila. Dedicale 15 minutos sin interrupciones."
   }
 ]
