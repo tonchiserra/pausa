@@ -21,9 +21,9 @@
 <script setup lang="ts">
     import { globalState, reInitScrollAnimation } from '../main'
     import { onMounted, ref } from 'vue'
-    import type { Reward } from '../interfaces/rewardInterface.js'
+    import type { IReward } from '../interfaces/rewardInterface.js'
 
-    const newReward = ref<Reward | null>(null)
+    const newReward = ref<IReward | null>(null)
 
     onMounted(() => {
         let now = new Date().toISOString()
@@ -116,8 +116,8 @@
         localStorage.setItem('pausa-del-dia::user-stats', JSON.stringify(globalState.userStats))
     })
 
-    const setReward = (reward: Reward) => {
-        if(!!!globalState.userStats.rewards.some((r: Reward) => r.id === reward.id)) {
+    const setReward = (reward: IReward) => {
+        if(!!!globalState.userStats.rewards.some((r: IReward) => r.id === reward.id)) {
             globalState.userStats.rewards.push(reward)
             reInitScrollAnimation()
             

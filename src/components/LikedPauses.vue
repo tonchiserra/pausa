@@ -11,13 +11,10 @@
 </template>
 
 <script setup lang="ts">
-    import pauses from '../db/pauses.json'
     import { globalState } from '../main.js'
-    import { computed } from 'vue'
+    import { ref } from 'vue'
 
-    const likedPauses = computed(() => {
-        return pauses.filter(pause => globalState.likedPauses.includes(pause.id))
-    })
+    const likedPauses = ref(globalState.likedPauses)
 </script>
 
 <style scoped>

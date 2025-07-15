@@ -18,7 +18,7 @@
 
 <script setup lang="ts">
     import { onMounted, ref } from 'vue'
-    import type { Mood } from '../interfaces/moodInterface.js'
+    import type { IMood } from '../interfaces/moodInterface.js'
     import moods from '../db/moods.json'
     import { globalState } from '../main.js'
 
@@ -40,7 +40,7 @@
         if(isNewDay) moodSelector.value?.setAttribute('open', 'true')
     })
 
-    const selectMood = (mood: Mood) => {
+    const selectMood = (mood: IMood) => {
         globalState.mood = mood
         moodSelector.value?.removeAttribute('open')
 

@@ -1,4 +1,4 @@
-export interface Reward {
+export interface IReward {
     id: number;
     icon: string;
     label: string;

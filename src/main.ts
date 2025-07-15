@@ -1,14 +1,17 @@
 import { createApp, reactive } from 'vue'
 import './style.css'
 import App from './App.vue'
+import type { IGlobalState } from './interfaces/globalStateInterface'
 
-export const globalState = reactive({
+export const globalState: IGlobalState = reactive<IGlobalState>({
     mood: {
         id: '',
-        label: ''
+        label: '',
+        icon: ''
     },
     likedPauses: JSON.parse(localStorage.getItem('pausa-del-dia::liked-pauses') || '[]'),
-    userStats: JSON.parse(localStorage.getItem('pausa-del-dia::user-stats') || '{}')
+    userStats: JSON.parse(localStorage.getItem('pausa-del-dia::user-stats') || '{}'),
+    userJournal: JSON.parse(localStorage.getItem('pausa-del-dia::user-journal') || '{}')
 })
 
 const observer = new IntersectionObserver(entries => {
